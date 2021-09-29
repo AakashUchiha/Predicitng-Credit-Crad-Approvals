@@ -1,1 +1,1 @@
-# Predicitng-Credit-Crad-Approvals
+# Predicting-Credit-Crad-Approvals
